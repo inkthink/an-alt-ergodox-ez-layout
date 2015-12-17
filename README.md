@@ -1,2 +1,3 @@
-# ergo-dox-ez-experimental-keymaps
-testing ground for an ErgoDoxEZ⌘ keymap
+# ErgoDox EZ ⌘ layouts
+testing ground
+
