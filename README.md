@@ -1,7 +1,7 @@
 # ErgoDox EZ ⌘ layout in 2 stages
 
 Stage 1: 2 layers: 
-- [ ] interim design
+- [x] stage 1 design
 - [ ] set modifiers to thumb cluster
 - [ ] combine FN-# layer and mouse layer
 - [ ] FN caps-lock for now?
